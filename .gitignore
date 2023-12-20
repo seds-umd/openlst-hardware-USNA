@@ -1,4 +1,8 @@
-
+# Hyperlynx
+sim/*.log
+sim/*.ini
+sim/DCDROP*
+sim/Report*
 
 # --- KICAD DEFAULTS ---
 # For PCBs designed using KiCad: https://www.kicad.org/
