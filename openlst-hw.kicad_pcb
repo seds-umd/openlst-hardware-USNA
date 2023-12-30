@@ -1741,7 +1741,7 @@
     )
     (pad "1" smd rect (at 0 0 90) (size 2.7 0.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 17 "/UART0_TX") (pinfunction "1") (pintype "passive") (thermal_bridge_angle 45) (tstamp f2d00b80-aa04-45d4-b4aa-dc8907495d7d))
-    (model "${KIPRJMOD}/footprints/3D Models/RCUCTE.stp"
+    (model "${SATFAB_DIR}/satfab_3d_models/RCUCTE.stp"
       (offset (xyz 0 0 0.5))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -2336,7 +2336,7 @@
       (net 1 "GND") (pinfunction "Ext") (pintype "passive") (solder_mask_margin 0.102) (tstamp caaf4d70-1665-40cd-a1a3-4b9f5781c7ed))
     (pad "2" thru_hole circle (at 1.27 1.27) (size 1.348 1.348) (drill 0.84) (layers "*.Cu" "*.Mask")
       (net 1 "GND") (pinfunction "Ext") (pintype "passive") (solder_mask_margin 0.102) (tstamp 5870f633-c352-4c16-82e5-d81fdeaf4750))
-    (model "${KIPRJMOD}/footprints/3D Models/MMCXV-J-P-HF-ST-TH1.step"
+    (model "${SATFAB_DIR}/satfab_3d_models/MMCXV-J-P-HF-ST-TH1.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -2654,7 +2654,7 @@
       (net 42 "Net-(U4-OUT)") (pinfunction "OUT") (pintype "passive") (tstamp c63537bb-3a39-4955-adf0-865b9c489a65))
     (pad "4" smd rect (at -1.27 -1.1 90) (size 1.6 1.5) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 3 "+3V3") (pinfunction "VCC") (pintype "passive") (tstamp eba4f937-ed76-477a-a570-7ceb918c7e36))
-    (model "${KIPRJMOD}/footprints/3D Models/ASFL1-27.000MHZ-LK-T.stp"
+    (model "${SATFAB_DIR}/satfab_3d_models/ASFL1-27.000MHZ-LK-T.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2967,7 +2967,7 @@
       (net 1 "GND") (pinfunction "PAD") (pintype "passive") (tstamp 8c6f534d-7bdd-4ff8-9df8-96369501ed3d))
     (pad "29" thru_hole circle (at 1.5 1.5 180) (size 0.5588 0.5588) (drill 0.254) (layers "*.Cu" "B.Mask")
       (net 1 "GND") (pinfunction "PAD") (pintype "passive") (tstamp cd44f04c-f43f-4c4a-bf2c-8e74d1de577c))
-    (model "${KIPRJMOD}/footprints/3D Models/IC28_ADL8111ACCZN_ADI.step"
+    (model "${SATFAB_DIR}/satfab_3d_models/IC28_ADL8111ACCZN_ADI.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3262,7 +3262,7 @@
       (net 52 "Net-(U7-SAW2)") (pinfunction "OUT") (pintype "passive") (tstamp 08363579-ef17-4466-865d-22facf0f76c9))
     (pad "6" smd rect (at 1.075 -1.195 180) (size 1.05 0.81) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "GND") (pinfunction "GND") (pintype "passive") (tstamp 2b3e2250-8442-47f8-9158-dfb28380ffed))
-    (model "${KIPRJMOD}/footprints/3D Models/SF2446E.stp"
+    (model "${SATFAB_DIR}/satfab_3d_models/SF2446E.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3296,7 +3296,7 @@
     )
     (pad "1" smd rect (at 0 0 90) (size 2.7 0.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 18 "/UART0_RX") (pinfunction "1") (pintype "passive") (thermal_bridge_angle 45) (tstamp 82dd8025-7175-46c9-8ae5-0ed883c1f3c6))
-    (model "${KIPRJMOD}/footprints/3D Models/RCUCTE.stp"
+    (model "${SATFAB_DIR}/satfab_3d_models/RCUCTE.stp"
       (offset (xyz 0 0 0.5))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -4074,7 +4074,7 @@
       (net 1 "GND") (pinfunction "Pin_19") (pintype "passive") (tstamp d6fdc20d-9eb3-4668-a0a1-0cfab044274d))
     (pad "20" smd rect (at 3.6 -1.9 180) (size 0.5 1.1) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 1 "GND") (pinfunction "Pin_20") (pintype "passive") (tstamp 1989d67d-c997-4a28-8146-1fd2ca3e3d56))
-    (model "${KIPRJMOD}/footprints/3D Models/ERM8-010-02.0-L-DV-TR.stp"
+    (model "${SATFAB_DIR}/satfab_3d_models/ERM8-010-02.0-L-DV-TR.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
