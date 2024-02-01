@@ -61,8 +61,7 @@
       (copper_finish "ENIG")
       (dielectric_constraints no)
     )
-    (pad_to_mask_clearance 0.0381)
-    (solder_mask_min_width 0.1016)
+    (pad_to_mask_clearance 0)
     (aux_axis_origin 137.3 115.4)
     (pcbplotparams
       (layerselection 0x00010fc_ffffffff)
